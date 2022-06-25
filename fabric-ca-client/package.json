@@ -22,7 +22,7 @@
   "types": "./types/index.d.ts",
   "dependencies": {
     "fabric-common": "file:../fabric-common",
-    "jsrsasign": "^7.2.2",
+    "jsrsasign": "^10.5.25",
     "url": "^0.11.0",
     "util": "^0.10.3",
     "winston": "^2.4.0"
